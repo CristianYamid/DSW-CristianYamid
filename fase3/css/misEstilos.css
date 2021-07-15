@@ -76,7 +76,6 @@ nav ul {
 }
 .menu li:hover .dropdown li {
     display: block;
-    color: rgb(255, 255, 255);
 }
 .menu a:hover {
     background:rgb(255, 255, 255);
